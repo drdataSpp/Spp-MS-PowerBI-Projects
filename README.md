@@ -13,7 +13,7 @@
 [Project 4 Link](https://github.com/drdataSpp/Spp_PowerBI_EV_Cars_Analysis)
 
 ## Project 5: COVID-19 Vaccines Analysis
-[Project 4 Link](https://github.com/drdataSpp/Spp_PowerBI_Covid_Vaccines_Analysis)
+[Project 5 Link](https://github.com/drdataSpp/Spp_PowerBI_Covid_Vaccines_Analysis)
 
 ## License
 **Copyright 2021 Soorya Prakash Parthiban**
