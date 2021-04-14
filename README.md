@@ -15,6 +15,9 @@
 ## Project 5: COVID-19 Vaccines Analysis
 [Project 5 Link](https://github.com/drdataSpp/Spp_PowerBI_Covid_Vaccines_Analysis)
 
+## Project 6: Suicide Rate Analysis from 1985 to 2016
+[Project 6 Link](https://github.com/drdataSpp/Spp_PowerBI_Suicide_Rates_Analysis)
+
 ## License
 **Copyright 2021 Soorya Prakash Parthiban**
 
