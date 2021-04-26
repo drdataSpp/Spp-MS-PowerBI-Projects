@@ -1,22 +1,99 @@
-# Data Analysis & Visualization Projects using MS PowerBI
+# MS PowerBI Projects
 
 ## Project 1: INZ Student Visa Approval Rates Analysis
-[Project 1 Link](https://github.com/drdataSpp/Spp_PowerBI_Student_Visa_Analysis)
+
+1 This dashboard has two filters: Year & Nationality
+
+2 This dashboard can be used to view:
+  - Student Visa Approval % by Nationality & Year
+  - Total decisions took by Applicant's Nationality & Year
+  - Average Approval Percentage by Nationality
+  - Approval % by Nationality & Institute type
+  - Total Decisions by Nationality & Institute type
+
+[Project 1 Repo](https://github.com/drdataSpp/Spp_PowerBI_Student_Visa_Analysis)
 
 ## Project 2: Amazon Bestselling Books Analysis
-[Project 2 Link](https://github.com/drdataSpp/Spp_PowerBI_Amazon_Bestselling_Books_Analysis)
+
+1 This dashboard has three filters: Price of the book, Year of the book and Genre of the book
+
+2 This dashboard can be used to view:
+  - Top books by user rating
+  - Top books with highest number of reviews
+
+[Project 2 Repo](https://github.com/drdataSpp/Spp_PowerBI_Amazon_Bestselling_Books_Analysis)
+[Dashboard Link](https://www.linkedin.com/feed/update/urn:li:activity:6767613077753085952/)
 
 ## Project 3: US SuperStore Analysis
-[Project 3 Link](https://github.com/drdataSpp/Spp_PowerBI_US-SuperStore_Analysis)
+
+1 This dashboard has 6 filters: Product's segment, Product's category, State, City, Month and year
+
+2 This dashboard can be used to view:
+  - How much sales & profit were done in total
+  - How much sales & profit were done based on: 	Segments, Category, State and City
+  - Top 10 cities based on Profit
+  - Top 10 States based on Sales
+  - Top 10 selling products (can be viewed for a particular month, year, or based on a city or state)
+  - How the 4 Regions perform in terms of Sales	
+  - Profit by shipping method and category of the product
+  - Top 5 customers based on Sales (can be viewed for a particular month, year, or based on a city or state)
+
+[Project 3 Repo](https://github.com/drdataSpp/Spp_PowerBI_US-SuperStore_Analysis)
+[Dashboard Link](https://www.linkedin.com/feed/update/urn:li:activity:6768897449483497472/)
 
 ## Project 4: German EV Cars Analysis
-[Project 4 Link](https://github.com/drdataSpp/Spp_PowerBI_EV_Cars_Analysis)
+
+1 This dashboard has six filters: Car's Brand, body type, drive type, Rapid charge feature (Yes/ No), No.of Seats, Market Segment, Plug type.
+
+2 Based on the above filters, the dashboard can be used to view:
+	- Top 5 brands in terms of acceleration
+	- Top 5 Cars in terms of efficiency
+	- Relationship between power & efficiency
+	- Top cars in terms of top speed and fast charge
+	
+[Project 4 Repo](https://github.com/drdataSpp/Spp_PowerBI_EV_Cars_Analysis)
 
 ## Project 5: COVID-19 Vaccines Analysis
-[Project 5 Link](https://github.com/drdataSpp/Spp_PowerBI_Covid_Vaccines_Analysis)
+
+1 This dashboard has two filters: Country filter & Vaccine Brand Filter.
+
+2 This dashboard can be used to view:
+	- How much vaccines are injected per day
+	- People fully vaccinated
+	- Daily Vaccinations per million
+	- Total vaccines
+	- Popular vaccines in use
+	- People fully vaccinated by date
+	- Top & Least 10 Countries vaccinated
+
+[Project 5 Repo](https://github.com/drdataSpp/Spp_PowerBI_Covid_Vaccines_Analysis)
+[Dashboard Link](https://www.linkedin.com/feed/update/urn:li:activity:6782225542151331840/)
 
 ## Project 6: Suicide Rate Analysis from 1985 to 2016
-[Project 6 Link](https://github.com/drdataSpp/Spp_PowerBI_Suicide_Rates_Analysis)
+
+1 This dashboard has four filters: Country, Year, Generation and Age
+
+2 This dashoard can be use to view:
+	-E.g. How many people from the millennial generation of 	
+	-In the above exmaple, Generation, Country and Year can be changed.
+  -Suicide Rates of a particular Country and that Country's Human Development Index, GDP per year, GDP per capita, suicides per 100k population & Total Population.
+  -See the total suicides recorded for a specific year, the top and least 10 countries with the highest suicides on that year.
+  -People from which generation has committed more suicides.
+  -Hovering the mouse over the stacks/ bar chart will show you the actual value.
+
+[Project 6 Repo](https://github.com/drdataSpp/Spp_PowerBI_Suicide_Rates_Analysis)
+[Dashboard Link](https://www.linkedin.com/feed/update/urn:li:activity:6787576539505655808/)
+
+## Project 7: Video Game Analysis 
+
+1 This dashboard has four filters: Game's genre, publish, platform type and release year.
+
+2 This dashoard can be use to view:
+	- Total Sales in Global Market, Europe, North America, Rest of the World and Japan
+	- Top 15 Countries in terms of Global Sales.
+ 
+[Project 6 Repo](https://github.com/drdataSpp/Spp_PowerBI_Video_Games_Analysis)
+[Dashboard Link](https://www.linkedin.com/feed/update/urn:li:activity:6791638515928199168/)
 
 ## License
 **Copyright 2021 Soorya Prakash Parthiban**
