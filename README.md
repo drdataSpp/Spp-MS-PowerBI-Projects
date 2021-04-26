@@ -22,6 +22,7 @@
   - Top books with highest number of reviews
 
 [Project 2 Repo](https://github.com/drdataSpp/Spp_PowerBI_Amazon_Bestselling_Books_Analysis)
+
 [Dashboard Link](https://www.linkedin.com/feed/update/urn:li:activity:6767613077753085952/)
 
 ## Project 3: US SuperStore Analysis
@@ -39,6 +40,7 @@
   - Top 5 customers based on Sales (can be viewed for a particular month, year, or based on a city or state)
 
 [Project 3 Repo](https://github.com/drdataSpp/Spp_PowerBI_US-SuperStore_Analysis)
+
 [Dashboard Link](https://www.linkedin.com/feed/update/urn:li:activity:6768897449483497472/)
 
 ## Project 4: German EV Cars Analysis
@@ -67,6 +69,7 @@
 	- Top & Least 10 Countries vaccinated
 
 [Project 5 Repo](https://github.com/drdataSpp/Spp_PowerBI_Covid_Vaccines_Analysis)
+
 [Dashboard Link](https://www.linkedin.com/feed/update/urn:li:activity:6782225542151331840/)
 
 ## Project 6: Suicide Rate Analysis from 1985 to 2016
@@ -82,6 +85,7 @@
   -Hovering the mouse over the stacks/ bar chart will show you the actual value.
 
 [Project 6 Repo](https://github.com/drdataSpp/Spp_PowerBI_Suicide_Rates_Analysis)
+
 [Dashboard Link](https://www.linkedin.com/feed/update/urn:li:activity:6787576539505655808/)
 
 ## Project 7: Video Game Analysis 
@@ -93,6 +97,7 @@
 	- Top 15 Countries in terms of Global Sales.
  
 [Project 6 Repo](https://github.com/drdataSpp/Spp_PowerBI_Video_Games_Analysis)
+
 [Dashboard Link](https://www.linkedin.com/feed/update/urn:li:activity:6791638515928199168/)
 
 ## License
