@@ -31,7 +31,7 @@
 
 2 This dashboard can be used to view:
   - How much sales & profit were done in total
-  - How much sales & profit were done based on: 	Segments, Category, State and City
+  - How much sales & profit were done based on: Segments, Category, State and City
   - Top 10 cities based on Profit
   - Top 10 States based on Sales
   - Top 10 selling products (can be viewed for a particular month, year, or based on a city or state)
@@ -48,10 +48,10 @@
 1 This dashboard has six filters: Car's Brand, body type, drive type, Rapid charge feature (Yes/ No), No.of Seats, Market Segment, Plug type.
 
 2 Based on the above filters, the dashboard can be used to view:
-	- Top 5 brands in terms of acceleration
-	- Top 5 Cars in terms of efficiency
-	- Relationship between power & efficiency
-	- Top cars in terms of top speed and fast charge
+- Top 5 brands in terms of acceleration
+- Top 5 Cars in terms of efficiency
+- Relationship between power & efficiency
+- Top cars in terms of top speed and fast charge
 	
 [Project 4 Repo](https://github.com/drdataSpp/Spp_PowerBI_EV_Cars_Analysis)
 
@@ -60,13 +60,13 @@
 1 This dashboard has two filters: Country filter & Vaccine Brand Filter.
 
 2 This dashboard can be used to view:
-	- How much vaccines are injected per day
-	- People fully vaccinated
-	- Daily Vaccinations per million
-	- Total vaccines
-	- Popular vaccines in use
-	- People fully vaccinated by date
-	- Top & Least 10 Countries vaccinated
+- How much vaccines are injected per day
+- People fully vaccinated
+- Daily Vaccinations per million
+- Total vaccines
+- Popular vaccines in use
+- People fully vaccinated by date
+- Top & Least 10 Countries vaccinated
 
 [Project 5 Repo](https://github.com/drdataSpp/Spp_PowerBI_Covid_Vaccines_Analysis)
 
@@ -77,12 +77,12 @@
 1 This dashboard has four filters: Country, Year, Generation and Age
 
 2 This dashoard can be use to view:
-	-E.g. How many people from the millennial generation of 	
-	-In the above exmaple, Generation, Country and Year can be changed.
-  -Suicide Rates of a particular Country and that Country's Human Development Index, GDP per year, GDP per capita, suicides per 100k population & Total Population.
-  -See the total suicides recorded for a specific year, the top and least 10 countries with the highest suicides on that year.
-  -People from which generation has committed more suicides.
-  -Hovering the mouse over the stacks/ bar chart will show you the actual value.
+- E.g. How many people from the millennial generation of 	
+- In the above exmaple, Generation, Country and Year can be changed.
+- Suicide Rates of a particular Country and that Country's Human Development Index, GDP per year, GDP per capita, suicides per 100k population & Total Population.
+- See the total suicides recorded for a specific year, the top and least 10 countries with the highest suicides on that year.
+- People from which generation has committed more suicides.
+- Hovering the mouse over the stacks/ bar chart will show you the actual value.
 
 [Project 6 Repo](https://github.com/drdataSpp/Spp_PowerBI_Suicide_Rates_Analysis)
 
@@ -93,8 +93,8 @@
 1 This dashboard has four filters: Game's genre, publish, platform type and release year.
 
 2 This dashoard can be use to view:
-	- Total Sales in Global Market, Europe, North America, Rest of the World and Japan
-	- Top 15 Countries in terms of Global Sales.
+- Total Sales in Global Market, Europe, North America, Rest of the World and Japan
+- Top 15 Countries in terms of Global Sales.
  
 [Project 7 Repo](https://github.com/drdataSpp/Spp_PowerBI_Video_Games_Analysis)
 
