@@ -100,6 +100,20 @@
 
 [Dashboard 7 Link](https://www.linkedin.com/feed/update/urn:li:activity:6791638515928199168/)
 
+## Project 8: Iowa US State's Liquor Sales Analysis 
+
+1 This dashboard has four filters: Zip Code, Category, County, Month name, and Year.
+
+2 This dashboard can be used to view: 
+
+- Total Sales by County, City, Liquor type, Product Name, Zip Code, and Vendor Name.
+- Volumes Sold in Litre and Gallons by County, City, Liquor type, Product Name, Zip Code, and Vendor Name.
+- What are the cities, counties, products and product categories which are performing best in terms of sales an/ or volume sold.
+
+**Note:** Repository for this project is not available as the .pbix file is above 150 mb in size. 
+
+[Dashboard 8 Link](https://www.linkedin.com/feed/update/urn:li:activity:6798765418623451136/)
+
 ## License
 **Copyright 2021 Soorya Prakash Parthiban**
 
