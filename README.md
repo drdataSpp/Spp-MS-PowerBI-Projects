@@ -114,6 +114,19 @@
 
 [Dashboard 8 Link](https://www.linkedin.com/feed/update/urn:li:activity:6798765418623451136/)
 
+## Project 9: COVID-19 Vaccines Rates Analysis
+
+1 This dashboard has one filter: Continent filter.
+
+2 This dashboard can be used to view:
+- The countries that has vaccinated 30% of its population or above.
+- Top 10 vaccinated countries in every continent by vaccination rates.  
+- How much of the population has received first dose and full doses vaccines.
+
+[Project 9 Repo](https://github.com/drdataSpp/Spp_PowerBI_Covid_Vaccines_Rates_Analysis)
+
+[Dashboard 9 Link](https://www.linkedin.com/feed/update/urn:li:ugcPost:6808590098494562304/)
+
 ## License
 **Copyright 2021 Soorya Prakash Parthiban**
 
