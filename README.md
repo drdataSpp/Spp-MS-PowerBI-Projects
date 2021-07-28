@@ -127,6 +127,24 @@
 
 [Dashboard 9 Link](https://www.linkedin.com/feed/update/urn:li:ugcPost:6808590098494562304/)
 
+## Project 10: USA Hate Crime Analysis
+
+1 This dashboard can be used to view:
+- Total crimes, total victims and total offenders from 1991 to 2019.
+- Total Crimes By Region.  
+- Offender race and their total no.of crime.
+- Statewise total affected victim count.
+- Top 15 crime locations.
+- Top 15 crime motive or bias description.
+- Victim count by offense type.
+
+2 This dashboard has a map visual in it. The map visual can be used as a filter for the dashboard by clicking on the state.
+
+[Project 10 Repo](https://github.com/drdataSpp/Spp_PowerBI_USA_Hate_Crime_Analysis)
+
+**Dashboard 10:** <br><br>
+![Alt Text](https://github.com/drdataSpp/Spp_PowerBI_USA_Hate_Crime_Analysis/blob/master/USA%20Crime%20Analysis%20Dashboard.gif)
+
 ## License
 **Copyright 2021 Soorya Prakash Parthiban**
 
